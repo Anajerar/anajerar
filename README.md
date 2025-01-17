@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aurelio Najera</h1>
-<img scr="https://github.com/user-attachments/assets/fa760d5b-0aa1-4e9e-82cc-24ddb9213d17"/>
 <h3 align="center">Electronics Engineer with strong background as full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajerar&label=Profile%20views&color=0e75b6&style=flat" alt="anajerar" /> </p>
 
-- 🔭 I’m currently working on **developing my python skills**
+- 🔭 I’m currently working on **Developing my python skills**
 
-- 👯 I’m looking to collaborate on **Cultural Wave**
+- 👯 I’m looking to collaborate on [Cultural Wave](https://github.com/4GeeksAcademy/proyecto-latam36-Agenda-de-eventos)
+
+- 📫 How to reach me **aurelio.najerar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aurelio-najera-7798a649/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurelio-najera-7798a649/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aurelio-najera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurelio-najera/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

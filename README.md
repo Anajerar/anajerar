@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurelio Najera</h1>
-<h3 align="center">Electronics Engineer with strong background as full stack developer</h3>
+<h3 align="center">Electronics Engineer and full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajerar&label=Profile%20views&color=0e75b6&style=flat" alt="anajerar" /> </p>
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on improving my python skills
 
-- 👯 I’m looking to collaborate on [Cultural Wave](https://github.com/4GeeksAcademy/proyecto-latam36-Agenda-de-eventos)
+- 👯 I’m collaborating on [Cultural Wave](https://github.com/Anajerar/Cultural_Wave)
 
 - 📫 How to reach me **aurelio.najerar@gmail.com**
 

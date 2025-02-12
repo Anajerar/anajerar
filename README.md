@@ -2,6 +2,7 @@
 <h3 align="center">Electronics Engineer and full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajerar&label=Profile%20views&color=0e75b6&style=flat" alt="anajerar" /> </p>
+<p align="left"> Passionate about technology and continuous learning, leveraging expertise in debugging and process improvement to build robust web solutions using tools like Python, React, and Flask. Skilled in problem resolution, customer focus, attention to detail, teamwork, and adaptability.</p>
 
 - 🔭 I’m currently working on improving my python skills
 
